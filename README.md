@@ -1,5 +1,5 @@
 # Restaurants
-<h2>Project Overview</h2>
+<h2>Project Overview👍</h2>
 <li><b><span>Project Name:</span></b> Restaurants</li>
 <li><b><span>Timeline: </span></b>March 2024 – December 2024</li>
 
@@ -10,7 +10,7 @@
 <li>Online Reservations & Orders</li>
 <li>Marketing & Branding</li>
 <li>Mobile-Friendly Experience</li> <br>
-<h2>Key Features</h2>
+<h2>Key Features🚀</h2>
 <li> Home Page (Landing Page)</li>
 <li>Menu Page</li>
 <li>Contact Page</li>
