@@ -25,6 +25,6 @@
 <li><b><span>Testing & Debugging:-</span></b> Cross-browser compatibility testing,Debug layout issues using browser DevTools</li>
 
 <h2>Contribute👨‍💻</h2>
-<p> 1. <b>Fork the Repository</b></p> <br>
+<p> 1. <b>Fork the Repository</b></p>
 <p> 2. <b>Create a Branch – Work on a separate feature branch (e.g., feature-reservation-form).</b></p>
 
