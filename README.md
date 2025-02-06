@@ -19,7 +19,7 @@
 <li>Responsive Design</li>
 <li>Photo Gallery</li>
 
-<h2>Responsibilities</h2>
+<h2>Responsibilities✅</h2>
 <li><b><span> Planning & Design:-</span></b> Define website structure (Home, Menu, About, Contact, etc.)<br>
 <li><b><span>Frontend Development:-</span></b> Build pages using HTML,Style the website using CSS,Implement JavaScript</li>
 <li><b><span>Testing & Debugging:-</span></b> Cross-browser compatibility testing,Debug layout issues using browser DevTools</li>
