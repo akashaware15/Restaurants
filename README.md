@@ -26,5 +26,9 @@
 
 <h2>Contribute👨‍💻</h2>
 <p> 1. <b>Fork the Repository</b></p>
-<p> 2. <b>Create a Branch – Work on a separate feature branch (e.g., feature-reservation-form).</b></p>
+<p> 2. <b>Create a Branch</b></p>
+<p> 3. <b>Make Changes</b></p>
+<p> 4. <b>Test the Changes</b></p>
+<p> 5. <b>Commit & Push</b></p>
+<p> 6. <b>Create a Pull Request</b></p>
 
