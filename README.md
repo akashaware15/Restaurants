@@ -1,7 +1,7 @@
 # Restaurants
 <h2>Project Overview👍</h2>
-<li><b><span>Project Name:</span></b> Restaurants</li>
-<li><b><span>Timeline: </span></b>March 2024 – December 2024</li>
+<li><b><span>Project Name:-</span></b> Restaurants</li>
+<li><b><span>Timeline:-</span></b> March 2024 – December 2024</li>
 
 
 <h2>Usage🏠</h2>
