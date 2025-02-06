@@ -18,3 +18,12 @@
 <li> Animations & Effects</li>
 <li>Responsive Design</li>
 <li>Photo Gallery</li>
+
+<h2>Responsibilities</h2>
+<li><b><span> Planning & Design:</span></b>Define website structure (Home, Menu, About, Contact, etc.)<br>
+ Create wireframes or mockups for layout design<br>
+Ensure user-friendly navigation and intuitive UI/UX</li>
+<li><b><span></b></li>
+<li><b><span></b></li>
+<li><b><span></b></li>
+<li><b><span></b></li>
