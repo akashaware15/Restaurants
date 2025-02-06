@@ -21,9 +21,5 @@
 
 <h2>Responsibilities</h2>
 <li><b><span> Planning & Design:</span></b>Define website structure (Home, Menu, About, Contact, etc.)<br>
- Create wireframes or mockups for layout design<br>
-Ensure user-friendly navigation and intuitive UI/UX</li>
-<li><b><span></b></li>
-<li><b><span></b></li>
-<li><b><span></b></li>
-<li><b><span></b></li>
+<li><b><span>Frontend Development:</span></b>Build pages using HTML,Style the website using CSS,Implement JavaScript</li>
+<li><b><span>Testing & Debugging:</span></b>Cross-browser compatibility testing,Debug layout issues using browser DevTools</li>
