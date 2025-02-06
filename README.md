@@ -1,6 +1,6 @@
 # Restaurants
 
-<h2>Uses</h2>
+<h2>Usage🏠</h2>
 <li>Attracting Customers</li>
 <li>Providing Essential Information</li>
 <li>Online Reservations & Orders</li>
